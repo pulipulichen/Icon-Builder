@@ -1,0 +1,38 @@
+.IconPreview {
+  @MainSize: 256px;
+  @CornerSize: 125px;
+  padding: 0px !important;
+  margin: 0px !important;
+  
+  width: @MainSize;
+  height: @MainSize;
+  
+  .icon-main-container {
+    position: absolute;
+    width: @MainSize;
+    height: @MainSize;
+    
+    padding: 0px !important;
+    margin: 0px !important;
+    
+    border: 1px solid red;
+    
+    
+  }
+  
+  .corner-container {
+    position: absolute;
+    width: @CornerSize;
+    height: @CornerSize;
+    padding: 0px !important;
+    margin: 0px !important;
+    z-index: 3;
+    
+    border: 1px solid green;
+  }
+  
+  .icon-left-top-container {
+    left: @MainSize - @CornerSize;
+    top: @MainSize - @CornerSize;
+  }
+}
