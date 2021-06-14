@@ -46,7 +46,7 @@ let Index = {
 //      
 //    },
     downloadFile (filename, dataUrl) {
-      var link = document.createElement("a");
+      let link = document.createElement("a");
             
       link.download = filename
       //console.log(link.download)
@@ -55,7 +55,7 @@ let Index = {
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
-      delete link;
+      //delete link;
     }
   }
 }
