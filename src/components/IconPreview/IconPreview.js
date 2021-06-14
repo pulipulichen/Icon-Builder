@@ -1,4 +1,4 @@
-let TemplateExample = {
+let IconPreview = {
   props: ['config', 'localConfig', 'utils'],
   data () {    
     this.$i18n.locale = this.localConfig.locale
@@ -21,4 +21,4 @@ let TemplateExample = {
   }
 }
 
-export default TemplateExample
+export default IconPreview

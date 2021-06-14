@@ -201,38 +201,6 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./node_modules/@kazupon/vue-i18n-loader/lib/index.js!./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml":
-/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@kazupon/vue-i18n-loader/lib!./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = function (Component) {
-  Component.options.__i18n = Component.options.__i18n || []
-  Component.options.__i18n.push('{"en":{"TEST_MESSAGE":"Test Message"},"zh-TW":{"TEST_MESSAGE":"測試訊息"}}')
-  delete Component.options._Ctor
-}
-
-
-/***/ }),
-
-/***/ "./node_modules/@kazupon/vue-i18n-loader/lib/index.js!./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml":
-/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@kazupon/vue-i18n-loader/lib!./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = function (Component) {
-  Component.options.__i18n = Component.options.__i18n || []
-  Component.options.__i18n.push('{"en":{"TEST_MESSAGE":"Test Message"},"zh-TW":{"TEST_MESSAGE":"測試訊息"}}')
-  delete Component.options._Ctor
-}
-
-
-/***/ }),
-
 /***/ "./node_modules/@kazupon/vue-i18n-loader/lib/index.js!./src/components/Index.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIndex.vue&lang=yaml":
 /*!********************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/@kazupon/vue-i18n-loader/lib!./src/components/Index.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIndex.vue&lang=yaml ***!
@@ -2101,42 +2069,6 @@ var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../node_modules/css
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
 exports.push([module.i, "body {\n  overscroll-behavior-y: contain;\n  padding: 0;\n  margin: 0;\n}\nbody > .non-invasive-web-style-framework.dimmable {\n  overflow-x: initial !important;\n}\nbody {\n  min-height: 100vh !important;\n  min-height: -webkit-fill-available !important;\n}\nhtml {\n  height: -webkit-fill-available !important;\n}\n", "",{"version":3,"sources":["/home/pudding/Documents/NetBeans-Projects/[html]/Icon-Builder/src/styles/global.less","global.less"],"names":[],"mappings":"AAAA;EACE,8BAAA;EAEA,UAAA;EACA,SAAA;ACAF;ADGA;EACE,8BAAA;ACDF;ADIA;EACE,4BAAA;EACA,6CAAA;ACFF;ADIA;EACE,yCAAA;ACFF","file":"global.less","sourcesContent":["body {\n  overscroll-behavior-y: contain;\n  //overflow-x: hidden;\n  padding: 0;\n  margin: 0;\n}\n\nbody > .non-invasive-web-style-framework.dimmable {\n  overflow-x: initial !important;\n}\n\nbody {\n  min-height: 100vh !important;\n  min-height: -webkit-fill-available !important;\n}\nhtml {\n  height: -webkit-fill-available !important;\n}\n","body {\n  overscroll-behavior-y: contain;\n  padding: 0;\n  margin: 0;\n}\nbody > .non-invasive-web-style-framework.dimmable {\n  overflow-x: initial !important;\n}\nbody {\n  min-height: 100vh !important;\n  min-height: -webkit-fill-available !important;\n}\nhtml {\n  height: -webkit-fill-available !important;\n}\n"]}]);
-// Exports
-module.exports = exports;
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&":
-/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js??ref--1-2!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& ***!
-  \*************************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-exports = ___CSS_LOADER_API_IMPORT___(true);
-// Module
-exports.push([module.i, "", "",{"version":3,"sources":[],"names":[],"mappings":"","file":"IconConfiguration.less"}]);
-// Exports
-module.exports = exports;
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&":
-/*!*************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js??ref--1-2!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& ***!
-  \*************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-exports = ___CSS_LOADER_API_IMPORT___(true);
-// Module
-exports.push([module.i, ".IconPreview[data-v-4404a26f] {\n  padding: 0px !important;\n  margin: 0px !important;\n  width: 256px;\n  height: 256px;\n}\n.IconPreview .icon-main-container[data-v-4404a26f] {\n  position: absolute;\n  width: 256px;\n  height: 256px;\n  padding: 0px !important;\n  margin: 0px !important;\n  border: 1px solid red;\n}\n.IconPreview .corner-container[data-v-4404a26f] {\n  position: absolute;\n  width: 125px;\n  height: 125px;\n  padding: 0px !important;\n  margin: 0px !important;\n  z-index: 3;\n  border: 1px solid green;\n}\n.IconPreview .icon-left-top-container[data-v-4404a26f] {\n  left: 131px;\n  top: 131px;\n}\n", "",{"version":3,"sources":["/home/pudding/Documents/NetBeans-Projects/[html]/Icon-Builder/src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&","IconPreview.less"],"names":[],"mappings":"AAAA;EAGE,uBAAA;EACA,sBAAA;EAEA,YAAA;EACA,aAAA;ACFF;ADLA;EAUI,kBAAA;EACA,YAAA;EACA,aAAA;EAEA,uBAAA;EACA,sBAAA;EAEA,qBAAA;ACJJ;ADbA;EAuBI,kBAAA;EACA,YAAA;EACA,aAAA;EACA,uBAAA;EACA,sBAAA;EACA,UAAA;EAEA,uBAAA;ACRJ;ADtBA;EAkCI,WAAA;EACA,UAAA;ACTJ","file":"IconPreview.less","sourcesContent":[".IconPreview {\n  @MainSize: 256px;\n  @CornerSize: 125px;\n  padding: 0px !important;\n  margin: 0px !important;\n  \n  width: @MainSize;\n  height: @MainSize;\n  \n  .icon-main-container {\n    position: absolute;\n    width: @MainSize;\n    height: @MainSize;\n    \n    padding: 0px !important;\n    margin: 0px !important;\n    \n    border: 1px solid red;\n    \n    \n  }\n  \n  .corner-container {\n    position: absolute;\n    width: @CornerSize;\n    height: @CornerSize;\n    padding: 0px !important;\n    margin: 0px !important;\n    z-index: 3;\n    \n    border: 1px solid green;\n  }\n  \n  .icon-left-top-container {\n    left: @MainSize - @CornerSize;\n    top: @MainSize - @CornerSize;\n  }\n}",".IconPreview {\n  padding: 0px !important;\n  margin: 0px !important;\n  width: 256px;\n  height: 256px;\n}\n.IconPreview .icon-main-container {\n  position: absolute;\n  width: 256px;\n  height: 256px;\n  padding: 0px !important;\n  margin: 0px !important;\n  border: 1px solid red;\n}\n.IconPreview .corner-container {\n  position: absolute;\n  width: 125px;\n  height: 125px;\n  padding: 0px !important;\n  margin: 0px !important;\n  z-index: 3;\n  border: 1px solid green;\n}\n.IconPreview .icon-left-top-container {\n  left: 131px;\n  top: 131px;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -15856,66 +15788,6 @@ VueI18n.version = '8.24.4';
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true&":
-/*!****************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true& ***!
-  \****************************************************************************************************************************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n  Hello World\n")])
-}
-var staticRenderFns = []
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true&":
-/*!****************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true& ***!
-  \****************************************************************************************************************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "IconPreview" }, [
-    _c("div", { staticClass: "icon-main-container" }, [
-      _c("div", { staticClass: "icon-main-background" }, [
-        _c("img", { ref: "IconMain" })
-      ])
-    ]),
-    _vm._v(" "),
-    _c("div", { staticClass: "icon-left-top-container corner-container" }, [
-      _c("div", { staticClass: "icon-left-top-background corner-background" }, [
-        _c("img", { ref: "IconLeftTop" })
-      ])
-    ])
-  ])
-}
-var staticRenderFns = []
-render._withStripped = true
-
-
-
-/***/ }),
-
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./src/components/Index.html?vue&type=template&id=82b7485c&scoped=true&":
 /*!**********************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./src/components/Index.html?vue&type=template&id=82b7485c&scoped=true& ***!
@@ -15966,15 +15838,17 @@ var render = function() {
       )
     ]),
     _vm._v(" "),
-    _c(
-      "button",
-      {
-        staticClass: "ui fluid button",
-        attrs: { type: "button" },
-        on: { click: _vm.downloadIcon }
-      },
-      [_vm._v("\r\n            DOWNLOAD\r\n  ")]
-    )
+    _c("div", { staticClass: "buttons" }, [
+      _c(
+        "button",
+        {
+          staticClass: "ui fluid button",
+          attrs: { type: "button" },
+          on: { click: _vm.downloadIconPNG }
+        },
+        [_vm._v("\r\n              DOWNLOAD PNG\r\n    ")]
+      )
+    ])
   ])
 }
 var staticRenderFns = []
@@ -16093,50 +15967,6 @@ function normalizeComponent (
   }
 }
 
-
-/***/ }),
-
-/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&":
-/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-style-loader!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js??ref--1-2!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js?sourceMap!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/less-loader/dist/cjs.js??ref--1-2!./IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& */ "./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&");
-if(content.__esModule) content = content.default;
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__(/*! ../../../node_modules/vue-style-loader/lib/addStylesClient.js */ "./node_modules/vue-style-loader/lib/addStylesClient.js").default
-var update = add("1f4ac3e4", content, false, {});
-// Hot Module Replacement
-if(false) {}
-
-/***/ }),
-
-/***/ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&":
-/*!*********************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-style-loader!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js??ref--1-2!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js?sourceMap!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/less-loader/dist/cjs.js??ref--1-2!./IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& */ "./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&");
-if(content.__esModule) content = content.default;
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__(/*! ../../../node_modules/vue-style-loader/lib/addStylesClient.js */ "./node_modules/vue-style-loader/lib/addStylesClient.js").default
-var update = add("44dcdef8", content, false, {});
-// Hot Module Replacement
-if(false) {}
 
 /***/ }),
 
@@ -28536,294 +28366,6 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true&":
-/*!************************************************************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true& ***!
-  \************************************************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
-
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
-
-
-
-/***/ }),
-
-/***/ "./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js&?1749":
-/*!****************************************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js& ***!
-  \****************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _IconConfiguration_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./IconConfiguration.js?vue&type=script&lang=js& */ "./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js&?8de9");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_IconConfiguration_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js&?8de9":
-/*!****************************************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js& ***!
-  \****************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-let TemplateExample = {
-  props: ['config', 'localConfig', 'utils'],
-  data () {    
-    this.$i18n.locale = this.localConfig.locale
-    return {
-    }
-  },
-  watch: {
-    'localConfig.locale'() {
-      this.$i18n.locale = this.localConfig.locale;
-    },
-  },
-  computed: {
-    
-  },
-  mounted() {
-    
-  },
-  methods: {
-    
-  }
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (TemplateExample);
-
-/***/ }),
-
-/***/ "./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&":
-/*!***************************************************************************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& ***!
-  \***************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-style-loader!../../../node_modules/css-loader/dist/cjs.js?sourceMap!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/less-loader/dist/cjs.js??ref--1-2!./IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& */ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&");
-/* harmony import */ var _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-
-
-/***/ }),
-
-/***/ "./src/components/IconConfiguration/IconConfiguration.vue":
-/*!****************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.vue ***!
-  \****************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true& */ "./src/components/IconConfiguration/IconConfiguration.html?vue&type=template&id=bfe99e6a&scoped=true&");
-/* harmony import */ var _IconConfiguration_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./IconConfiguration.js?vue&type=script&lang=js& */ "./src/components/IconConfiguration/IconConfiguration.js?vue&type=script&lang=js&?1749");
-/* empty/unused harmony star reexport *//* harmony import */ var _IconConfiguration_less_vue_type_style_index_0_id_bfe99e6a_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true& */ "./src/components/IconConfiguration/IconConfiguration.less?vue&type=style&index=0&id=bfe99e6a&lang=less&scoped=true&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
-/* harmony import */ var _IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml */ "./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml");
-
-
-
-
-
-
-/* normalize component */
-
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
-  _IconConfiguration_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _IconConfiguration_html_vue_type_template_id_bfe99e6a_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
-  false,
-  null,
-  "bfe99e6a",
-  null
-  
-)
-
-/* custom blocks */
-
-if (typeof _IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__["default"] === 'function') Object(_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__["default"])(component)
-
-/* hot reload */
-if (false) { var api; }
-component.options.__file = "src/components/IconConfiguration/IconConfiguration.vue"
-/* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml":
-/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml ***!
-  \**************************************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/@kazupon/vue-i18n-loader/lib!./IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml */ "./node_modules/@kazupon/vue-i18n-loader/lib/index.js!./src/components/IconConfiguration/IconConfiguration.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconConfiguration%2FIconConfiguration.vue&lang=yaml");
-/* harmony import */ var _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
- /* harmony default export */ __webpack_exports__["default"] = (_node_modules_kazupon_vue_i18n_loader_lib_index_js_IconConfiguration_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconConfiguration_2FIconConfiguration_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0___default.a); 
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true&":
-/*!************************************************************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true& ***!
-  \************************************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./IconPreview.html?vue&type=template&id=4404a26f&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
-
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
-
-
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js&?0cff":
-/*!****************************************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js& ***!
-  \****************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-let TemplateExample = {
-  props: ['config', 'localConfig', 'utils'],
-  data () {    
-    this.$i18n.locale = this.localConfig.locale
-    return {
-    }
-  },
-  watch: {
-    'localConfig.locale'() {
-      this.$i18n.locale = this.localConfig.locale;
-    },
-  },
-  computed: {
-    
-  },
-  mounted() {
-    
-  },
-  methods: {
-    
-  }
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (TemplateExample);
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js&?a295":
-/*!****************************************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js& ***!
-  \****************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _IconPreview_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./IconPreview.js?vue&type=script&lang=js& */ "./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js&?0cff");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_IconPreview_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&":
-/*!***************************************************************************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& ***!
-  \***************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-style-loader!../../../node_modules/css-loader/dist/cjs.js?sourceMap!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/less-loader/dist/cjs.js??ref--1-2!./IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& */ "./node_modules/vue-style-loader/index.js!./node_modules/css-loader/dist/cjs.js?sourceMap!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js?!./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&");
-/* harmony import */ var _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_node_modules_css_loader_dist_cjs_js_sourceMap_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_less_loader_dist_cjs_js_ref_1_2_IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.vue":
-/*!****************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.vue ***!
-  \****************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./IconPreview.html?vue&type=template&id=4404a26f&scoped=true& */ "./src/components/IconPreview/IconPreview.html?vue&type=template&id=4404a26f&scoped=true&");
-/* harmony import */ var _IconPreview_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./IconPreview.js?vue&type=script&lang=js& */ "./src/components/IconPreview/IconPreview.js?vue&type=script&lang=js&?a295");
-/* empty/unused harmony star reexport *//* harmony import */ var _IconPreview_less_vue_type_style_index_0_id_4404a26f_lang_less_scoped_true___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true& */ "./src/components/IconPreview/IconPreview.less?vue&type=style&index=0&id=4404a26f&lang=less&scoped=true&");
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
-/* harmony import */ var _IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml */ "./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml");
-
-
-
-
-
-
-/* normalize component */
-
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
-  _IconPreview_js_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _IconPreview_html_vue_type_template_id_4404a26f_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
-  false,
-  null,
-  "4404a26f",
-  null
-  
-)
-
-/* custom blocks */
-
-if (typeof _IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__["default"] === 'function') Object(_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_4__["default"])(component)
-
-/* hot reload */
-if (false) { var api; }
-component.options.__file = "src/components/IconPreview/IconPreview.vue"
-/* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml":
-/*!**************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml ***!
-  \**************************************************************************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/@kazupon/vue-i18n-loader/lib!./IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml */ "./node_modules/@kazupon/vue-i18n-loader/lib/index.js!./src/components/IconPreview/IconPreview.yaml?vue&type=custom&index=0&blockType=i18n&issuerPath=%2Fhome%2Fpudding%2FDocuments%2FNetBeans-Projects%2F%5Bhtml%5D%2FIcon-Builder%2Fsrc%2Fcomponents%2FIconPreview%2FIconPreview.vue&lang=yaml");
-/* harmony import */ var _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
- /* harmony default export */ __webpack_exports__["default"] = (_node_modules_kazupon_vue_i18n_loader_lib_index_js_IconPreview_yaml_vue_type_custom_index_0_blockType_i18n_issuerPath_2Fhome_2Fpudding_2FDocuments_2FNetBeans_Projects_2F_5Bhtml_5D_2FIcon_Builder_2Fsrc_2Fcomponents_2FIconPreview_2FIconPreview_vue_lang_yaml__WEBPACK_IMPORTED_MODULE_0___default.a); 
-
-/***/ }),
-
 /***/ "./src/components/Index.html?vue&type=template&id=82b7485c&scoped=true&":
 /*!******************************************************************************!*\
   !*** ./src/components/Index.html?vue&type=template&id=82b7485c&scoped=true& ***!
@@ -28847,44 +28389,9 @@ __webpack_require__.r(__webpack_exports__);
   !*** ./src/components/Index.js?vue&type=script&lang=js& ***!
   \**********************************************************/
 /*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _IconConfiguration_IconConfiguration_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./IconConfiguration/IconConfiguration.vue */ "./src/components/IconConfiguration/IconConfiguration.vue");
-/* harmony import */ var _IconPreview_IconPreview_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./IconPreview/IconPreview.vue */ "./src/components/IconPreview/IconPreview.vue");
-
-
-
-/* global Node */
-let Index = {
-  props: ['config', 'localConfig', 'utils'],
-  data () {    
-    this.$i18n.locale = this.config.localConfig
-    return {
-      iconMain: null,
-      iconLeftTop: '',
-      iconLeftBottom: '',
-      iconRightTop: '',
-      iconRightBottom: ''
-    }
-  },
-  components: {
-    IconPreview: _IconPreview_IconPreview_vue__WEBPACK_IMPORTED_MODULE_1__["default"],
-    IconConfiguration: _IconConfiguration_IconConfiguration_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
-  },
-//  computed: {
-//  },
-//  watch: {
-//  },
-  methods: {
-    downloadIcon () {
-      
-    }
-  }
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (Index);
+throw new Error("Module parse failed: Deleting local variable in strict mode (58:6)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n|       link.click();\n|       document.body.removeChild(link);\n>       delete link;\n|     }\n|   }");
 
 /***/ }),
 
