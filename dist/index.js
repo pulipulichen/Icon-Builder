@@ -28441,7 +28441,8 @@ let Index = {
 //  },
   methods: {
     downloadIconPNG () {
-      let node = this.$refs.currentFrame.element
+      let node = this.$refs.IconPreview.element
+      console.log(node)
       //$(node).addClass('save-style')
       _vendors_dom_to_img_dom_to_image_min_js__WEBPACK_IMPORTED_MODULE_3___default().toPng(node)
         .then((dataUrl) => {
