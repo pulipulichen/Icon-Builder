@@ -147,7 +147,7 @@ module.exports = (env, argv) => {
     watchOptions: {
       ignored: [
         '**/node_modules',
-        '**/[documents',
+        '**/\\[documents',
         '**/dist',
         '**/webpack'
       ],

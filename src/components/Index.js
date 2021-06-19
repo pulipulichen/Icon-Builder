@@ -30,7 +30,8 @@ let Index = {
 //  },
   methods: {
     downloadIconPNG () {
-      let node = this.$refs.currentFrame.element
+      let node = this.$refs.IconPreview.element
+      console.log(node)
       //$(node).addClass('save-style')
       domtoimage.toPng(node)
         .then((dataUrl) => {
@@ -46,7 +47,7 @@ let Index = {
 //      
 //    },
     downloadFile (filename, dataUrl) {
-      var link = document.createElement("a");
+      let link = document.createElement("a");
             
       link.download = filename
       //console.log(link.download)
@@ -55,6 +56,7 @@ let Index = {
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
+      //delete link;
     }
   }
 }
